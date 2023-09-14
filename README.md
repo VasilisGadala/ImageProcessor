@@ -1,3 +1,3 @@
 # ImageProcessor
 
-# Placeholder doc - will add video of functioning program in the future
+Currently seeing if I can upload a jar to avoid publicly posting assignment code (risks plagiarism). 
